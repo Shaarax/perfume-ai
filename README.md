@@ -55,3 +55,8 @@ git clone https://github.com/Shaarax/perfume-ai.git
 cd perfume-ai
 npm install
 npm run dev
+
+## 👤 Author
+
+Built by [@Shaarax](https://github.com/Shaarax)  
+> Software Developer building AI-powered tools for real-world impact.
