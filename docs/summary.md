@@ -1,3 +1,9 @@
+---
+author: Mohd Shaarif Khan
+description: 1-page summary of Perfume AI project
+---
+
+
 🧠 Project Title
 
 Perfume AI: An Intelligent Fragrance Discovery Platform using AI and Structured Scent Data
