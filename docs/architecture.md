@@ -43,3 +43,4 @@ Supabase chosen for instant auth + normalized Postgres
 Python script used for clean data control and multi-table inserts
 
 Separation of notes, accords, and tags for future AI expandability
+
